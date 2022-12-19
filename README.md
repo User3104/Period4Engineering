@@ -6,7 +6,7 @@ The purpose of this website is to house weekly updates about what we learn in th
 
 ## What is included?
 
-- Photos of prodjects
+- Photos of projects
 - Weekly blog reports on material learned
 
 ## Programming Languages Used
